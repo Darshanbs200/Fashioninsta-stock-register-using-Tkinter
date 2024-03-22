@@ -6,11 +6,3 @@ Fashionista  is  a  popular  garment  store  in  Los  Angeles,  USA.  The  store
 
 <img width="837" alt="Screenshot 2024-03-22 220509" src="https://github.com/Darshanbs200/Fashioninsta-stock-register-using-Tkinter/assets/128827805/f54a7bc7-627c-4601-8956-27f0d3049942">
 
-
-
-<img width="591" alt="Screenshot 2024-03-22 220128" src="https://github.com/Darshanbs200/Fashioninsta-stock-register-using-Tkinter/assets/128827805/c1078f1b-dbad-4700-9be8-
-101b10f1b0f4">
-
-
-
-<img width="623" alt="Screenshot 2024-03-22 220521" src="https://github.com/Darshanbs200/Fashioninsta-stock-register-using-Tkinter/assets/128827805/bcf679c4-662b-48e8-af3f-ada21d319f08">
