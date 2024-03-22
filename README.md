@@ -1,1 +1,3 @@
 # Fashioninsta-stock-register-using-Tkinter
+
+Fashionista  is  a  popular  garment  store  in  Los  Angeles,  USA.  The  store  has multiple  sections  for  men,  women,  and  children  for  different  types  of  garments such  as  trousers,  suits,  traditional  wear,  accessories,  sports  gear,  and  so  on. Currently,  the  store  maintains  a  manual  register  for  recording  the  details  of  the garments  such  as  type,  price,  stock,  orderQty,  sales,  and  so  on.  However,  the owner  of  the  store  has  decided  to  automate  the  tasks  such  as  data  entry,  sales calculation,  stock  updation,  and  so  on  to  save  time  and  effort  required  in  the tasks.  
